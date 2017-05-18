@@ -1,0 +1,14 @@
+br/gov/pa/prodepa/security/interceptors/AuthorizationInterceptor.class
+br/gov/pa/prodepa/security/interceptors/AuthorizationsRestCrudInterceptor.class
+br/gov/pa/prodepa/security/model/AbstractPageSecurity.class
+br/gov/pa/prodepa/security/producer/SecurityContextProducer.class
+br/gov/pa/prodepa/security/producer/ControleAcessoClientProducer.class
+br/gov/pa/prodepa/security/SecurityContext.class
+br/gov/pa/prodepa/security/anotations/Authorization.class
+br/gov/pa/prodepa/security/anotations/AuthorizationsRestCrud.class
+br/gov/pa/prodepa/security/anotations/RestCrudMethod.class
+br/gov/pa/prodepa/security/model/AbstractOperacoesControleAcesso.class
+br/gov/pa/prodepa/security/interceptors/LoggedInInterceptor.class
+br/gov/pa/prodepa/security/anotations/LoggedIn.class
+br/gov/pa/prodepa/security/model/AuthenticatedUser.class
+br/gov/pa/prodepa/security/model/Page.class

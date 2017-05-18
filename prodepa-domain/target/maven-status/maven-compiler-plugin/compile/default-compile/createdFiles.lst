@@ -1,0 +1,5 @@
+br/gov/pa/prodepa/domain/enumeration/TipoBoleano.class
+br/gov/pa/prodepa/domain/Audit.class
+br/gov/pa/prodepa/domain/Model.class
+br/gov/pa/prodepa/domain/Paginable.class
+br/gov/pa/prodepa/domain/CanEnableOrDisable.class

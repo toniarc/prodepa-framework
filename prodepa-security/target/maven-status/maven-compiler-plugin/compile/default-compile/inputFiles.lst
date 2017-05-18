@@ -1,0 +1,14 @@
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/interceptors/LoggedInInterceptor.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/anotations/LoggedIn.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/anotations/RestCrudMethod.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/model/Page.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/SecurityContext.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/interceptors/AuthorizationsRestCrudInterceptor.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/anotations/Authorization.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/anotations/AuthorizationsRestCrud.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/interceptors/AuthorizationInterceptor.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/model/AbstractOperacoesControleAcesso.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/model/AbstractPageSecurity.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/producer/SecurityContextProducer.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/producer/ControleAcessoClientProducer.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-security/src/main/java/br/gov/pa/prodepa/security/model/AuthenticatedUser.java

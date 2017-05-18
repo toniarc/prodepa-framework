@@ -1,0 +1,6 @@
+br/gov/pa/prodepa/exceptions/mapper/ApplicationExceptionMapper.class
+br/gov/pa/prodepa/exceptions/error/ErrorMessage.class
+br/gov/pa/prodepa/exceptions/ApplicationException.class
+br/gov/pa/prodepa/exceptions/SecurityException.class
+br/gov/pa/prodepa/exceptions/BusinessException.class
+br/gov/pa/prodepa/exceptions/DatabaseException.class

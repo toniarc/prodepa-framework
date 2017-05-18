@@ -1,0 +1,8 @@
+br/gov/pa/prodepa/util/ReflectionUtils.class
+br/gov/pa/prodepa/util/Beans.class
+br/gov/pa/prodepa/util/ProdepaGlobalSystemProperties.class
+br/gov/pa/prodepa/util/Beans$CustomInjectionPoint$1.class
+br/gov/pa/prodepa/util/Beans$CustomInjectionPoint.class
+br/gov/pa/prodepa/util/MedicaoDesempenho.class
+br/gov/pa/prodepa/util/StringUtil.class
+br/gov/pa/prodepa/util/PropertiesUtil.class

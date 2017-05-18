@@ -1,0 +1,6 @@
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-exceptions/src/main/java/br/gov/pa/prodepa/exceptions/error/ErrorMessage.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-exceptions/src/main/java/br/gov/pa/prodepa/exceptions/BusinessException.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-exceptions/src/main/java/br/gov/pa/prodepa/exceptions/SecurityException.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-exceptions/src/main/java/br/gov/pa/prodepa/exceptions/DatabaseException.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-exceptions/src/main/java/br/gov/pa/prodepa/exceptions/ApplicationException.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-exceptions/src/main/java/br/gov/pa/prodepa/exceptions/mapper/ApplicationExceptionMapper.java

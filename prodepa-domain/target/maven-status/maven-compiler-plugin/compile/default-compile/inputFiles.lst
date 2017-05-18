@@ -1,0 +1,5 @@
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-domain/src/main/java/br/gov/pa/prodepa/domain/Model.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-domain/src/main/java/br/gov/pa/prodepa/domain/enumeration/TipoBoleano.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-domain/src/main/java/br/gov/pa/prodepa/domain/CanEnableOrDisable.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-domain/src/main/java/br/gov/pa/prodepa/domain/Paginable.java
+/opt/workspaces/arquitetura/prodepa-parent/prodepa-domain/src/main/java/br/gov/pa/prodepa/domain/Audit.java

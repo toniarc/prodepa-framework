@@ -1,0 +1,4 @@
+br/gov/pa/prodepa/business/validation/BusinessValidations.class
+br/gov/pa/prodepa/business/AbstractBusinessCrud$Operacao.class
+br/gov/pa/prodepa/business/AbstractBusinessCrud.class
+br/gov/pa/prodepa/business/BusinessCrud.class
